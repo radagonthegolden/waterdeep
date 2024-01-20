@@ -3,8 +3,8 @@
 	- Nella stanza successiva notiamo due persone: [[Krent]] e un Druegar. 
 		- Ucciso il Druegar, interroghiamo l'altro che ci dice che tra 2 stanze ci sarà il suo capo. 
 	- Nella stanza ancora dopo notiamo una serie di ossa di goblin e la stessa sostanza che usciva dall'orecchio di [[Meloon]]. Questo si muove verso un'altra stanza, da cui esce una Ooze. 
-	- Nella stanza dopo c'è [[Grumshank]], uno [[Gilda di Xanathar|Xanathar]], con il piede sul petto di un tipo dai capelli rossi. In fondo alla stanza un [[Mindflayer]] che accarezza un [[Divoratore d'intelletto]]
-		- [[Grumshank]] sta chiedendo scusa per aver sbagliato persona
-		- [[Navadius Cash]] riesce ad attirare [[Grumshank]] fuori dalla stanza con illusione minore, cerchiamo di trovare un accordo ma non funziona e iniziamo a combattere. Dopo poco [[Grumshank]] è K.O.
+	- Nella stanza dopo c'è [[Grum'shar]], uno [[Gilda di Xanathar|Xanathar]], con il piede sul petto di un tipo dai capelli rossi. In fondo alla stanza un [[Mindflayer]] che accarezza un [[Divoratore d'intelletto]]
+		- [[Grum'shar]] sta chiedendo scusa per aver sbagliato persona
+		- [[Navadius Cash]] riesce ad attirare [[Grum'shar]] fuori dalla stanza con illusione minore, cerchiamo di trovare un accordo ma non funziona e iniziamo a combattere. Dopo poco [[Grum'shar]] è K.O.
 		- Il [[Mindflayer]] dice di chiamarsi [[Nilur]] e dice a [[Navadius Cash]] che percepisce una creatura potente e oscura che lo sta inseguendo. [[Navadius Cash|teletrasporta per poi dargli una visione]]
 - Dietro un pilastro troviamo un [[Uomo Ratto]], che di dice di essere membro della [[Compagnia dei salatori]], mercanti di carne, spezie e altro che lavora a [[Waterdeep]]
