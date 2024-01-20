@@ -1,0 +1,2 @@
+- Fazione degli [[Zhentharim]] capitanata da [[David Starsong]]
+- Sono in conflitto con la fazione di Manshun #todo 

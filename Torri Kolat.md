@@ -1,0 +1,13 @@
+- Torri gemelle nel [[Ward|Nord Ward]]
+- Gestite dagli [[Zhentharim]] di [[Manshun]]
+- Avvolte da un campo di forza
+	- Questo campo proviene da magia runica locata una stanza in una delle due torri 
+- Per entrare notiamo che gli [[Zhentharim]] che passano il muro di forza disegnano un'apertura con un anello speciale
+- Riusciamo a trovare un'entrata alternativa, un portale da teletrasporto, in un edificio li vicino ed entriamo
+	- Nella prima stanza troviamo casse di carne con sopra il sigillo della [[Compagnia dei salatori]]
+	- Nella seconda stanza vediamo 8 stendardi sui muri che mostrano le 8 scuole di magia, inoltre incontriamo [[Sidra Romier]] e 2 sgherri. Riusciamo a convincerli che dobbiamo vedere il capo per qualcosa di importante e loro abboccano
+	- Poi entriamo in una cucina con un Halfling che lavora sui fornelli con una mano spettrale che lo aiuta
+	- Dopo vediamo un corridoio con foto di famiglia di [[Dunlark e Alcione Kolat]], ex possessori della torre. 
+	- Troviamo poi una stanza con un'armatura ammaccata, diversi libri ammuffiti, dei gargoyle e una partita a scacchi lasciata a metà
+		- Completato lo scacco matto da una libreria cade un libro: *Rituali di accoppiamento dei [[Flumph]]*
+	- La prossima stanza è un compattatore di rifiuti che riusciamo a superare senza far scattare

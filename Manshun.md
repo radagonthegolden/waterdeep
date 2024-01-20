@@ -1,0 +1,1 @@
+- Leader della fazione opposta ai Doom Riders

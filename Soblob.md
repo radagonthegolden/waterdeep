@@ -1,0 +1,1 @@
+- Proprietario del *Negozio di Soblob*, dove vende un sacco di strani trinket. Il negozio ha un pupazzo di [[Gazer]] appeso all'entrata

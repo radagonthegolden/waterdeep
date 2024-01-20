@@ -1,0 +1,82 @@
+# 1/3/1492
+- [[Portale Sbadigliante]]: 
+	- [[Volo]] ci ingaggia pe trovare [[Flum]]
+	- Partecipiamo ad una rissa tra [[Jagra Stonefist]] e [[Krent]]
+- [[Ward|Main ward:]] 
+	- una donna avverte la folla che è pericoloso andare sotto la il [[Waterdeep|Monte Waterdeep]] perché è pieno di mostri e pericoli 
+	- Notiamo molti [[Elfi Oscuri|Elfi Oscuri]] che vengono da lontano, hanno un luccichio nella tasca
+	- Sopra di noi sfrecciano dei [[Waterdeep|Cavalieri su grifoni]]
+	- Torniamo al [[Portale Sbadigliante]]
+		- [[Navadius Cash]] e [[Stock Hudson]] vanno da [[Volo]] chiedendo degli incantesimi. 
+		- Incontrano [[Jagra Stonefist]] che li ringrazia per averla aiutata. 
+		- Incontrano anche [[David Starsong]], capo dei dei [[Doom Riders]], una delle fazioni interne agli [[Zhentharim]]. L'altra è capitanata dallo stregone [[Manshun]].
+			- David chiede se Navadius vuole allearsi con gli [[Zhentharim]] e lui accetta. 
+- [[La Mecca|Locanda non nominata]]:
+	- [[Profhazz Mohammak]] convince la locandiera ad aiutarlo a diffondere l'[[Islam]] a [[Waterdeep]]. [[Stock Hudson]] si propone come tesoriere dalla fede
+# 2/3/1492
+- [[Portale Sbadigliante]]:
+	- [[Profhazz Mohammak]] prova a convertire gente, ma c'è poca clientela. Il motivo è che sono prese a prepararsi per [[Fay Day]]
+- [[Ward|Main ward]]:
+	- Un tipo strano vuole che consegniamo una lettera ad una ragazza, fatto ciò questa tira un pugno a [[Giammi di Lesignana|Giammi]]
+	- Notiamo un [[Magistrati|Magistrato]] con un'enturage di gente vestita di giallo
+		- Il Magistrato ci dice che a [[Waterdeep]] la magia è regolamentata, ci racconta della gilda dei maghi del luogo, i [[Force Grey]], gestita da [[Vagina Blackstaff]]
+		- [[Profhazz Mohammak]] riesce a convincere il Magistrato a costruire una moschea 
+	- [[Gino]] nota una [[Cartomante]] 
+		- Questa legge i tarocchi:
+			- *Ragazza in ambiti spaccati*: qualcuno è in pericolo
+			- *Cavaliere*: disastro, morte o grandi perdite
+			- #todo *???* : Spia per ordini di qualcuno
+			- *Mercante*: opportunità di guadagno
+			- *Artefatto*: probabilmente il diario di [[Navadius Cash]] 
+		- [[Gino]] chiede informazioni sulle [[Torri Oscure]] a [[Meloon]] (notando una strana sostanza che gli esce dalle orecchie), la cartomante ha sentito che un tempo appartenevano ad un potente mago
+	- Arriviamo al negozio di [[Soblob]], che sfoggia un pupazzo di [[Gazer]] appeso all'entrata. Vende cose molte strane e variegate 
+	- Andiamo finalmente al [[Drago Infilzato]]
+- [[Drago Infilzato]]:
+	- [[Giammi di Lesignana]] chiede info al locandiere
+		- [[Flum]] era lì la sera scorsa con [[Volo]] (che poi se n'è andato) e [[Rene Neverember]], figlio del precedente [[Waterdeep|Open Lord]] 
+		- [[Flum]] è stato rapito da gente che frequenta [[Candle Lane]]
+- [[Candle Lane]]:
+	- Incontriamo subito un London event: c'è stato un accoltellamento alla luce del sole tra [[Zhentharim]] e [[Gilda di Xanathar]]
+	- Incontriamo un'amica della [[Cartomante]] che ci chiede aiuto
+		- Ha una libreria dove ha intrappolato un mostro, e vorrebbe che noi lo uccidessimo
+		- Fatto ciò ricompensa [[Navadius Cash]] con una scroll giornaliera di Detect Magic
+		- Rivela inoltre che il suo [[Navadius Cash|diario]] appartiene ad una [[Creatura Potente]] ed è pieno di rune indecifrabili simili ad un cognito-hazard.
+	- Notiamo che alla fine della via c'è una singola candela accesa, questa è davanti ad un [[Deposito degli Zhentharim|deposito]] gestito dagli [[Zhentharim]]
+	- Usciti dal covo troviamo il [[Capitano Staget]] che ci chiede se conosciamo [[Ursul Floxin]], uno [[Zhentharim]] famoso. [[Profhazz Mohammak]] lo convince che siamo avventurieri dalla parte della legge
+		- [[Capitano Staget|Staget]] continua dicendo che i segni gialli sono probabilmente della [[Gilda di Xanathar]] e che hanno visto dei [[Elfi Oscuri]] portare un barile nelle fogne
+- [[Portale Sbadigliante]]:
+	- [[Giammi di Lesignana]] e [[Profhazz Mohammak]] partecipano alla challenge dove ci si cala nel pozzo e si cerca di resistere il più possibile. [[Profhazz Mohammak]] resiste più di tutti quella sera e porta a se altri fedeli verso l'[[Islam]]
+	- [[Navadius Cash]] e [[Stock Hudson]] vanno da [[Jagra Stonefist]] che li conduce da [[David Starsong]] e [[Skeemo]] 
+- Andiamo a dormire e veniamo attaccati da dei ladri. Sconfitti scopriamo che il fabbro a cui abbiamo venduto l'argento ha snitchato
+# 3/3/1492
+- [[Rifugio nelle fogne]]:
+	- Seguiamo i segni gialli verso le fogne arrivando ad un rifugio degli [[Zhentharim]]
+- [[Ward|South Ward]]:
+	- Dopo aver comprato dell'erba [[Navadius Cash]] si riunisce al party
+- [[Portale Sbadigliante]]:
+	- [[Giammi di Lesignana]] si accorge che il viso della barista sfarfalla, come aveva notato in passato. Chiedendole lei gli rivela di essere una [[Doppleganger]]
+	- Durante la sera [[Navadius Cash]] indaga sulla [[Pietra Lunare]]. Esposta alla luce lunare questa punta ad un [[Tempio nel Porto]] illuminato da effigi a forma di Mezza Luna
+# 4/3/1492
+- Come ricompensa per aver trovato [[Flum]] otteniamo una magione, la [[Casarg]]. La mattina andiamo con un funzionario di [[Ward|Castle Ward]] per attualizzare il passaggio di proprietà. 
+- [[Ward|North Ward]]:
+	- Vediamo le [[Torri Kolat]]
+	- [[Navadius Cash]] va nella casa del mago in cui era stato portato da [[Nilur]], questo era il potentissimo mago [[Goffredo]].
+		- L'ispettore [[Vincent Ranch]] è stato chiamato per indagare. La polizia è sconvolta perché si trattava di un grande e potente mago e la porte NON era scassinata
+	- Uno [[Zhentharim]] con l'[[Torri Kolat|anello speciale]] entra in una locanda vicina
+		- [[Profhazz Mohammak]] cattura l'attenzione spargendo l'[[Islam]], in questo modo [[Giammi di Lesignana]] e [[Stock Hudson]] riescono ad avvicinarsi al bersaglio non visti.
+		- [[Giammi di Lesignana]] gli offre una gara di bevute.
+		- Lo [[Zhentharim]] racconta che ha dovuto passare la giornata a intimidire dei locali di un bar vicino alle [[Torri Kolat|torri]] per assicurarsi la loro omertà. 
+		- [[Navadius Cash]] prova a leggergli i pensieri ma la sua mente è protetta da una barriera impenetrabile
+		- [[Giammi di Lesignana]] vince la gara di bevute, lui e [[Stock Hudson]] lo portano in bagno fingendosi suoi amici e gli rubano l'anello.
+	- Usciti vediamo delle guardie che combattono contro un [[Carrion Crawler]] e decidiamo di aiutarle. Dopo poco viene smitato to kingdom come da [[Profhazz Mohammak]]
+		- Le "guardie" erano in realtà membri dell'[[Ordine del Guanto]] in giro per una ronda
+		- [[Giammi di Lesignana]] si unisce all'ordine
+	- Torniamo nella taverna dove notiamo un gruppo di persone vestiti con [[Drappi Rossi]]
+		- [[Profhazz Mohammak]] nota che portano il simbolo di una famiglia nobile di [[Waterdeep]] i [[Cassalh]]
+		- [[Giammi di Lesignana]] riesce a farsi dire che per unirsi a loro devi compiere un rito e giurare fedeltà a qualcosa
+		- [[Gino]] e [[Stock Hudson]] si mostrano interessati e i [[Drappi Rossi]] dicono fanno parte del culto di una divinità che non possono rivelare. Si ritrovano ogni 10 giorni sotto casa dei loro padroni con drappi rossi, maschere e coltelli d'oro. 
+			- Chiedono inoltre informazioni sulle [[Torri Kolat|torri]], e questi rispondono che hanno visto degli [[Zhentharim]] entrare da edifici circostanti per poi uscire dalle torri, insinuando ci siano dei tunnel 
+	- Entriamo in casa di [[Goffredo]] 
+	- Usciti ed interrogato lo [[Zhentharim]] ubriacone abbiamo un indirizzo, entrati troviamo un portale da teletrasporto che ci porta nel cortile delle [[Torri Kolat|torri]] oltre alla barriera
+		
+	

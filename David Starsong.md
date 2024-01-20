@@ -1,0 +1,2 @@
+- Leader dei [[Doom Riders]]
+- Ha assoldato [[Navadius Cash]] negli [[Zhentharim]]

@@ -1,0 +1,6 @@
+- Donna incontrata nel [[Ward|Main Ward]] che ha letto una profezia:
+	- *Ragazza in ambiti spaccati*: qualcuno è in pericolo
+	- *Cavaliere*: disastro, morte o grandi perdite
+	- *Marionetta*: Spia per ordini di qualcuno
+	- *Mercante*: opportunità di guadagno
+	- *Artefatto*: probabilmente il diario di [[Navadius Cash]] 

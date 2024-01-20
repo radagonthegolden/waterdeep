@@ -1,0 +1,1 @@
+- Mostro composto da una testa volante con un singolo occhio, da cui emergono vari tentacoli con a loro volta occhi sulle estremità

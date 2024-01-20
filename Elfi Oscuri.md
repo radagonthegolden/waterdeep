@@ -1,0 +1,4 @@
+- Un gruppo di Drow è approdato nella [[Ward|zona del porto]]
+- Vengono da una terra lontana
+- Portano con se strani arnesi di ferro e una benda sull'occhio
+- #todo non si capisce da dove vengono

@@ -1,0 +1,7 @@
+- Famosa taverna di [[Waterdeep]], in cui [[Volo]] ci ha ingaggiati per trovare [[Flum]]
+- Luogo di una rissa tra [[Jagra Stonefist]] e alcuni membri della [[Gilda di Xanathar]], tra cui [[Krent]]
+- Ha un grande pozzo al centro
+	- Un Troll ci è uscito è ci ha fatto il culo
+	- Sede di una sfida dove la gente si cala già per cercare di resistere il più possibile
+		- [[Profhazz Mohammak]] l'ha quasi vinta, convertendo all'[[Islam]] alcuni dei presenti
+- Il primo giorno la taverna era per qualche motivo sotto effetto di un'illusione che la faceva apparire diversa

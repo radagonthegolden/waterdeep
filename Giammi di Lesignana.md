@@ -1,0 +1,3 @@
+- Barbaro 
+- Eroe Popolare
+- Nato a Lesignana, una piccola cittadina posta su una rotta commerciale tra due grandi città. Lesignana era gestita da questo grande proprietario terriero ora morto. I suoi possedimenti sono finiti in eredità ad una persona di [[Waterdeep]], e il popolo di Lesignana ha dato a Giammi il compito di comprarli in modo da poter possedere la propria terra.

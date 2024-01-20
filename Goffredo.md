@@ -1,0 +1,5 @@
+- Potente mago ucciso davanti a [[Navadius Cash]] dopo essere stato teletrasportato da [[Nilur]]
+- Entrati in casa sua troviamo un panello di legno sul muro, tolto rivela un seti di bastoni da mago non incantati ma le gemme da attuning di [[Navadius Cash]] risuonano e diventano neri. Lui li prende tutti
+		- [[Stock Hudson]] trova un biglietto con una combinazione numerica, 666, poi una botola sotto al tappeto da cui scendiamo
+		- Nello scantinato troviamo una casa chiusa apribile con la combinazione, piena di amuleti che prendiamo
+			- [[Stock Hudson]] trova anche una veste bianca con una parrucca nera. Mage Hand di [[Navadius Cash]] riesce ad aprire un altro compartimento per trovare un capello con Disguise Self, un rossetto e trucco da donna. 

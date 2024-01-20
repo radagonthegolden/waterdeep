@@ -1,0 +1,3 @@
+- Amico di [[Volo]]
+- E' stato rapito al [[Drago Infilzato]]
+- 

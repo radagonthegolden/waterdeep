@@ -1,0 +1,8 @@
+- Mago
+- #todo
+- Porta con se un diario
+- Nel [[Rifugio nelle fogne]], [[Nilur]] lo teletrasporta e gli fa avere una visione: 
+	- [[Navadius Cash]] si ritrova in una stanza poco illuminata, davanti a lui un mago accoltellato e squartato. Questa scena gli ricorda la sua [[Atlanta]]
+	- Si ritrova in strada con davanti la creatura che sta per ucciderlo, però un amico si sacrifica per lui per poi droppare il [[Navadius Cash|Diario]] 
+	- #todo non capisco cosa ci sia scritto qui
+	- Scopriamo dopo che il mago ucciso era [[Goffredo]]

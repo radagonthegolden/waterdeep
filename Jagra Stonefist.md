@@ -1,0 +1,2 @@
+- Membra degli [[Zhentharim]]
+- Partecipa ad una rissa con [[Krent]] al [[Portale Sbadigliante]]

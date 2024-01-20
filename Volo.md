@@ -1,0 +1,4 @@
+- Eccentrico, simpatico e ciarlatano scrittore di bestiari
+- Autore di *Volo's guide to Monsters*
+- Ci ha ingaggiato al [[Portale Sbadigliante]] per trovare [[Flum]], sui amico che è stato rapito
+- Afflitto da blocco dello scrittore

@@ -1,0 +1,4 @@
+- Enforcer della legge a [[Waterdeep]]
+- Vestiti di Nero
+- Come gli altri nobili della città sono grandi mecenati e finanziatori di arti e scienze 
+- Sono incaricati di sanzionare tutti gli utilizzatori di magia 

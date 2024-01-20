@@ -1,0 +1,4 @@
+- Magione ottenuta dal party per aver salvato [[Flum]]
+- Il piano terra è adatto ad un'attività commerciale ma dobbiamo ancora decidere cosa farne
+- [[Navadius Cash]] si becca la torre in quanto Wizzard
+- 

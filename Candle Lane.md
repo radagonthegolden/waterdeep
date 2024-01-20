@@ -1,0 +1,3 @@
+- Situata nel [[Ward|Dock Ward]]
+- Strada piena di depositi portuali
+- Particolarmente pericolosa e zeppa di criminali, anche di giorno

@@ -1,0 +1,2 @@
+- Alleanza costituita dai signori di varie città influenti che sanno che un po' di cooperazione è necessaria per proteggere il mondo dal male
+- Ne fanno parte [[Waterdeep]], Baulder's Gate, Never-Winter, ecc ecc.

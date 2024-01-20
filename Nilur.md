@@ -1,0 +1,2 @@
+- Potente [[Mindflayer]] trovato nel [[Rifugio nelle fogne]] 
+- Ha avvertito [[Navadius Cash]] della creatura che lo sta cacciando per poi [[Navadius Cash|teletrasportarlo in una visione]] 

@@ -1,0 +1,1 @@
+- Ultima locanda in cui è stato visto [[Flum]], che era stato rapito da [[Zhentharim|gente con un tatuaggio di serpente]]
