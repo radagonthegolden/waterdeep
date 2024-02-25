@@ -1,2 +1,0 @@
-- Figlio del precedente [[Waterdeep|Open Lord]]
-- Si dice che suo padre abbia rubato dei soldi dalle casse dello stato per poi nasconderli. Questo scandalo l'ha fatto deporre

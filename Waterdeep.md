@@ -1,7 +1,7 @@
 - Più grande e influente città dei Faerun
 - Governata dai Masked Lords: signori anonimi e mascherati
 - La più alta carica è però l'Open Lord: uno dei masked lord si rivela guadagnando la carica di Doge della città
-	- Il precedente Open Lord è #todo padre di [[Rene Neverember]]
+	- Il precedente Open Lord è #todo padre di [[René Neverember]]
 	- L'Open Lord attuale è [[Laerel Silverhand]]  
 - Protetta dai Guardiani di Waterdeep: grandi statue di pietra che si animano quando la città ne ha bisogno
 - Posta ai piedi del Monte Waterdeep

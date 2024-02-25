@@ -1,0 +1,12 @@
+- HQ della polizia di [[Waterdeep]] situata nella [[Ward|Castle Ward]] 
+- Siamo stati portati lì dopo l'[[Esplosione]] per essere interrogati
+	- Siamo accusati di omicidio, terrorismo e occultamento di cadavere. In Generale siamo accusati di cospirazione con [[Ursul Floxin]]
+		- Omicidio: la sera del'1/3/1492, prima di essere assoldati da [[Volo]], siamo stati visti con un [[Drow Morto|drow]] che è stato trovato morto nello scantinato dell'[[Portale Sbadigliante]] insieme ad [[Ursul Floxin]]
+		- Terrorismo: credono che abbiamo causato noi l'[[Esplosione]], per via di un affare illegale andato male
+		- Occultamento di cadavere: si tratta del [[Vescovo di Gond]] morto che ci hanno infilato in [[Casarg]]
+	- [[Navadius Cash]] ci difende: *quella sera eravamo alla festa dei [[Festa dei Cassalantes|Cassalantes]], e siamo stati visti da tutti. Al nostro ritorno la [[Troll Skull Alley|via]] era bloccata dalla polizia*
+		- Risposta: *Non ci risulta di aver bloccato quella via quella sera*. Sanno inoltre che [[Ursul Floxin]] sta uccidendo maghi locali e hanno visto Navadius in quelle zone (anche se stava solo indagando sulla azioni dell'[[Aboleth]])
+	- [[Profhazz Mohammak]] propone di far venire un poliziotto mago per castare [[Zone of Truth]]. Lui sceglie di fallire il tiro, mentre il resto del party lo supera. 
+		- Interrogato, [[Profhazz Mohammak]] risponde dicendo la verità. Non sappiamo molto di [[Ursul Floxin]], abbiamo qualche collegamento con[[David Starsong]] (noto criminale), ma è un po' alla lontana. Il [[Vescovo di Gond]] è stato piazzato lì da [[Nevercott]] #credo
+		- In generale, riesce a convincere la polizia che non siamo stati noi a causare l'esplosione, ma ci terranno comunque d'occhio. 
+	- Mentre ci rilasciano vediamo che [[René Neverember|René]] sta venendo interrogato. Il motivo è che uno dei morti dell'[[Esplosione]] è [[Dalakhar]], amico di famiglia dei [[René Neverember|Neverember]] e incaricato dal padre di René di tenerlo d'occhio.

@@ -1,0 +1,2 @@
+- Membro degli [[Zhentharim]]
+- Ci ha fatto entrare nell'[[Obitorio]] dove un suo informatore ci ha fatto parlare coi cadaveri dell[[Esplosione]]

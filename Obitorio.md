@@ -1,0 +1,39 @@
+- [[Skeemo Beerbottle]] ci detto che un suo informatore può farci parlare il [[Vescovo di Gond]] morto e le vittime dell'[[Esplosione]], che sono:
+	- 2 [[Zhentharim]] morti
+	- 2 Drow morti
+	- Una vecchietta
+	- [[Dalakhar]]
+- Conversazione con il [[Vescovo di Gond:]]
+	- *Perché ti hanno ucciso?*
+	- *Automi. Nascondere tracce*
+	- *Quali tracce?*
+	- *Manifattura personalizzata. Occhio di vetro*
+	- *Cosa hanno da nascondere gli automi speciali?*
+	- *Monitoraggio*
+	- #deduzione [[Nevercott]] ha modificato alcuni automi di [[Gond]] per tenere d'occhio i nobili di [[Waterdeep]]
+- Conversazione con il primo [[Zhentharim]]
+	- *Perché eravate lì?*
+	- *Fanculo*
+	- *Vi hanno venduti, stiamo cercando di aiutarvi*
+	- *Non mi fido*
+	- *Cosa vi ha ucciso?*
+	- *Un riflesso. Tetti. Boato*
+- Conversazione con il secondo [[Zhentharim]], fatta da [[Stock Hudson]] travestito da [[Eze Blackroot]] 
+	- *Cosa vi ha detto il nano?*
+	- *Ha detto: lasciatemi, non so cosa volete da me*
+	- *Il [[Vault]] è al sicuro?*
+	- *Abbiamo la pietra, manca il resto. Chiavi sconosciute*
+	- *Chi sono i Drow morti?*
+	- *Uomini di [[Nevercott]]*
+- Conversazione con [[Dalakhar]], ancora fatta da [[Stock Hudson|Stock]] travestito sta volta da René
+	- *Dov'è la pietra?*
+	- *L'ha preso lo [[Zhentharim]]. Esplosione, poi buio*
+	- *Chi ti ha ucciso?*
+	- *[[Ursul Floxin]] sapeva di me. Mi ha ucciso qualcos'altro. Cospirazioni nobiliari*
+	- *Cosa sai delle chiavi?*
+	- *Molte chiavi. Una in vostro possesso. Una potete trovarla presto. Una in questa stanza* (l'ultima frase l'ha detta indicando [[Gino]])
+- Conversazione con il primo Drow, sempre fatta da [[Stock Hudson]] ma travestito da [[Nevercott]]
+	- *Come è andata la missione?*
+	- *Pattuglia interrotta da Serpi Nere. Parlavano della pietra. Segretezza richiesta*
+	- *Cosa sappiamo degli avventurieri?*
+	- *Nessun contatto precedente con il nano. Salvo il nostro agente*

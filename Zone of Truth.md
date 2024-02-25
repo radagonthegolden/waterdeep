@@ -1,0 +1,2 @@
+- Magia che costringe tutte le persone in una zona a fare un Tiro Salvezza su Carisma. In caso di fallimento, la creatura afflitta non può mentire. Può scegliere di stare zitta, omettere certi punti, o essere evasiva nelle sue risposte.
+- Può dire il falso nel caso in cui essa ci creda onestamente per via di informazioni sbagliate

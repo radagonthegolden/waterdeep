@@ -1,0 +1,5 @@
+- Casa della famiglia nobiliare dei [[Gralhund]]
+- Entriamo dal cancello del giardino, poi al piano di sotto dove troviamo una domestica morta
+- Saliti al piano superiore troviamo 2 banditi in una stanza piena di cadaveri. 
+	- Un bandito si uccide praticamente da solo cadendo in un camino acceso
+	- Il secondo lo uccidiamo e basta

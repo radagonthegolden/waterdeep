@@ -33,7 +33,7 @@
 	- Andiamo finalmente al [[Drago Infilzato]]
 - [[Drago Infilzato]]:
 	- [[Giammi di Lesignana]] chiede info al locandiere
-		- [[Flum]] era lì la sera scorsa con [[Volo]] (che poi se n'è andato) e [[Rene Neverember]], figlio del precedente [[Waterdeep|Open Lord]] 
+		- [[Flum]] era lì la sera scorsa con [[Volo]] (che poi se n'è andato) e [[René Neverember]], figlio del precedente [[Waterdeep|Open Lord]] 
 		- [[Flum]] è stato rapito da gente che frequenta [[Candle Lane]]
 - [[Candle Lane]]:
 	- Incontriamo subito un London event: c'è stato un accoltellamento alla luce del sole tra [[Zhentharim]] e [[Gilda di Xanathar]]
@@ -46,7 +46,7 @@
 		- [[Capitano Staget|Staget]] continua dicendo che i segni gialli sono probabilmente della [[Gilda di Xanathar]] e che hanno visto dei [[Elfi Oscuri]] portare un barile nelle fogne
 - [[Portale Sbadigliante]]:
 	- [[Giammi di Lesignana]] e [[Profhazz Mohammak]] partecipano alla challenge dove ci si cala nel pozzo e si cerca di resistere il più possibile. [[Profhazz Mohammak]] resiste più di tutti quella sera e porta a se altri fedeli verso l'[[Islam]]
-	- [[Navadius Cash]] e [[Stock Hudson]] vanno da [[Jagra Stonefist]] che li conduce da [[David Starsong]] e [[Skeemo]] 
+	- [[Navadius Cash]] e [[Stock Hudson]] vanno da [[Jagra Stonefist]] che li conduce da [[David Starsong]] e [[Skeemo Beerbottle]] 
 - Andiamo a dormire e veniamo attaccati da dei ladri. Sconfitti scopriamo che il fabbro a cui abbiamo venduto l'argento ha snitchato
 # 3/3/1492
 - [[Rifugio nelle fogne]]:
@@ -61,7 +61,7 @@
 - [[Ward|North Ward]]:
 	- Vediamo le [[Torri Kolat]]
 	- [[Navadius Cash]] va nella casa del mago in cui era stato portato da [[Nilur]], questo era il potentissimo mago [[Goffredo]].
-		- L'ispettore [[Vincent Ranch]] è stato chiamato per indagare. La polizia è sconvolta perché si trattava di un grande e potente mago e la porte NON era scassinata
+		- L'ispettore [[Vincent Trench]] è stato chiamato per indagare. La polizia è sconvolta perché si trattava di un grande e potente mago e la porte NON era scassinata
 	- Uno [[Zhentharim]] con l'[[Torri Kolat|anello speciale]] entra in una locanda vicina
 		- [[Profhazz Mohammak]] cattura l'attenzione spargendo l'[[Islam]], in questo modo [[Giammi di Lesignana]] e [[Stock Hudson]] riescono ad avvicinarsi al bersaglio non visti.
 		- [[Giammi di Lesignana]] gli offre una gara di bevute.
@@ -78,5 +78,12 @@
 			- Chiedono inoltre informazioni sulle [[Torri Kolat|torri]], e questi rispondono che hanno visto degli [[Zhentharim]] entrare da edifici circostanti per poi uscire dalle torri, insinuando ci siano dei tunnel 
 	- Entriamo in casa di [[Goffredo]] 
 	- Usciti ed interrogato lo [[Zhentharim]] ubriacone abbiamo un indirizzo, entrati troviamo un portale da teletrasporto che ci porta nel cortile delle [[Torri Kolat|torri]] oltre alla barriera
-		
-	
+# 6/3/1492
+- Usciamo per investigare sull'[[Esplosione]], e troviamo un Drow amico di alcune delle vittime che ci dà una [[Collana di Fireball]] 
+	- Troviamo delle [[Orme Insanguinate]] che si dirigono dietro l'angolo, ma prima di vedere dove arrivano siamo arrestati da [[Vincent Trench]], [[Sett Crornely]] e [[Barnibus Bustwind]]
+- Siamo portati in [[Centrale]] e interrogati
+- Fuori dalla centrale, [[Skeemo Beerbottle|Skeemo]], che ci dice che un suo informatore lavora all'[[Obitorio]] e può farci parlare con i morti dell'[[Esplosione]]. Accettiamo
+- Usciti dall'[[Obitorio]] leggiamo il [[Nobile Waterdeviano]] che parla dell'[[Esplosione]] e che testimoni oculari hanno visto un [[Automata Scappato|Automata]] lasciare cadere qualcosa in un barile
+- Decidiamo di andare al [[Tempio di Gond]] per chiedere del [[Vescovo di Gond|vescovo]] morto e degli automi modificati
+- Fuori dal tempio veniamo attaccati da un Fanatico e uno Zombie Beholder. Riusciamo ad uccidere il fanatico, mentre il Beholder Zombie viene convinto da [[Gino]], con Suggestion, a contare tutte i san pietrini della piazza. Lasciamo la situazione alla guardia cittadina
+- Con lo [[Rilevatore di Automi|strumento]] trovato, decidiamo di andare a [[Ward|North Ward]]. Arrivati, notiamo che inizia a suonare vicino ad una [[Casa Gralhund|casa]], dentro cui sneakiamo

@@ -1,8 +1,8 @@
 - Deposito situato a [[Candle Lane]]
 -  Entrando notiamo un cadavere di [[Zhentharim]] e veniamo attaccati da 4 Kenku
-	- Sconfitti troviamo un biglietto firmato con un serpente: *Rapite [[Rene Neverember|RN]] e consegnatelo a [[UF]], [[Gilda di Xanathar|X]] è sulle nostre tracce*
+	- Sconfitti troviamo un biglietto firmato con un serpente: *Rapite [[René Neverember|RN]] e consegnatelo a [[UF]], [[Gilda di Xanathar|X]] è sulle nostre tracce*
 	- Sullo [[Zhentharim]] morto troviamo un altro biglietto *Gli Z devono seguire il vero leader, NON i [[Doom Riders]], firmato [[UF]]* 
 	- Interrogati, I Kenku ci dicono che *[[Xanathar|X]] manda i suoi saluti* e dopo un po' di persuasione di *Seguire i segni gialli nelle fogne* e che sono stati mandati per fare un agguato agli [[Zhentharim]]
-	- Nell'altra stanza troviamo [[Flum]] che ci dice che gli [[Zhentharim]] l'hanno rapito perché scambiato per [[Rene Neverember]], probabilmente perché vogliono i soldi forse rubati dal padre
+	- Nell'altra stanza troviamo [[Flum]] che ci dice che gli [[Zhentharim]] l'hanno rapito perché scambiato per [[René Neverember]], probabilmente perché vogliono i soldi forse rubati dal padre
 		- [[Flum]] dice che [[Zhentharim]] hanno parlato di un artefatto: la [[Pietra di Galar]] da sempre nelle mani degli [[Gilda di Xanathar]] ma da poco rubata
 	- Troviamo inoltre dei dipinti e dell'argento dietro un muro

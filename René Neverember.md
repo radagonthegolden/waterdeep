@@ -1,0 +1,3 @@
+- Figlio del precedente [[Waterdeep|Open Lord]], [[Grumval Neverember]]
+- Si dice che suo padre abbia rubato dei soldi dalle casse dello stato per poi nasconderli. Questo scandalo l'ha fatto deporre
+- Gli [[Xanathar]] volevano rapirlo per scoprire dove sono i soldi del padre, ma questi hanno rapito [[Flum]] per sbaglio

@@ -1,0 +1,9 @@
+- Tempio del dio [[Gond]], diretto dalla [[Gilda delle Mani Occupate]]
+- Ci siamo andati a chiedere informazioni sul [[Vescovo di Gond]] morto e sugli automi modificati da [[Nevercott]]
+- Prima di entrare, vediamo [[Nim|un automa]] sul tetto, che lancia a [[Navadius Cash]] un uccellino automatico. Navadius si spaventa e usa Gust of Wind per farlo schiantare a terra. Lo raccoglie
+- Dentro notiamo varie invenzioni e meraviglie tecnologiche, tra cui un [[Sottomarino Rosso]]
+- Dentro veniamo accolti da [[Valetta]], sacerdotessa di Gond a cui chiediamo che relazione avessero [[Nevercott]] e il Vescovo morto
+	- Nevercott bulizzava il vescovo. A Nevercott piacciono i sottomarini #teoria il [[Vault]] è sott'acqua
+	- Decidiamo di non chiedere degli automi modificati per paura che lei sia in combutta con Nevercott
+	- Gli chiediamo dell'automa sul tetto e ci dice che lui è [[Nim]], un automa schermidore muto (che parla con lei la lingua dei segni). E' preoccupato perché un suo amico [[Automata Scappato|automa]] è fuggito e non si sa dove
+	- Ci proponiamo di ritrovarlo, e [[Valetta]] ci dà uno [[Rilevatore di Automi|strumento]] per trovare gli automi

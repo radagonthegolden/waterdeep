@@ -1,0 +1,3 @@
+- Specie: Rakshasha, gatti antropomorfi
+- Investigatore privato locato in [[Troll Skull Alley]]
+- Ci ha arrestati davanti all'[[Esplosione]]

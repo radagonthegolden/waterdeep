@@ -1,0 +1,3 @@
+- Collana donatoci da un bambino Drow sul sito dell'[[Esplosione]] 
+- Ha 9 orbi, ma solo 8 sono pieni
+- Probabilmente è stata questa a causare l'esplosione
